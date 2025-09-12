@@ -26,7 +26,7 @@ qwen-vl-utils==0.0.11
 python-dotenv==1.1.0
 
 # Data Science and Visualization
-numpy==2.1.2
+numpy==2.3.3
 pandas==2.3.0
 matplotlib==3.10.3
 pillow==11.3.0
