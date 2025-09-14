@@ -34,7 +34,7 @@ pillow==11.3.0
 # Jupyter and Notebook Support
 jupyter==1.1.1
 ipywidgets==8.1.7
-notebook==7.4.4
+notebook==7.4.5
 
 # Monitoring and Logging
 wandb==0.21.4
