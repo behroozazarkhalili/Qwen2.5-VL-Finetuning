@@ -9,7 +9,7 @@ torchaudio==2.8.0
 # Hugging Face Ecosystem
 # Note: Using development versions for latest features
 transformers==4.53.0
-datasets==4.0.0
+datasets==4.1.0
 huggingface-hub==0.34.4
 accelerate>=0.26.0
 tokenizers>=0.15.0
