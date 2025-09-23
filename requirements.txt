@@ -20,7 +20,7 @@ trl==0.23.0
 bitsandbytes==0.47.0
 
 # Vision-Language Model Utils
-qwen-vl-utils==0.0.11
+qwen-vl-utils==0.0.14
 
 # Environment and Configuration
 python-dotenv==1.1.1
