@@ -16,7 +16,7 @@ tokenizers>=0.15.0
 
 # Fine-tuning and PEFT
 peft==0.17.1
-trl==0.23.1
+trl==0.24.0
 bitsandbytes==0.48.1
 
 # Vision-Language Model Utils
