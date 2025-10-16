@@ -2,7 +2,7 @@
 # Generated using pipreqs and pipreqsnb for the object-oriented VLM fine-tuning notebook
 
 # Core ML and Deep Learning
-torch==2.8.0
+torch==2.9.0
 torchvision==0.23.0
 torchaudio==2.8.0
 
