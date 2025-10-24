@@ -10,7 +10,7 @@ torchaudio==2.9.0
 # Note: Using development versions for latest features
 transformers==4.57.1
 datasets==4.2.0
-huggingface-hub==0.35.3
+huggingface-hub==0.36.0
 accelerate>=0.26.0
 tokenizers>=0.15.0
 
