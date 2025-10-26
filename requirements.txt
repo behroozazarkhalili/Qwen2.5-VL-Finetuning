@@ -23,7 +23,7 @@ bitsandbytes==0.48.1
 qwen-vl-utils==0.0.14
 
 # Environment and Configuration
-python-dotenv==1.1.1
+python-dotenv==1.2.0
 
 # Data Science and Visualization
 numpy==2.3.4
