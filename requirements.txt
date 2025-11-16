@@ -15,7 +15,7 @@ accelerate>=0.26.0
 tokenizers>=0.15.0
 
 # Fine-tuning and PEFT
-peft==0.17.1
+peft==0.18.0
 trl==0.25.1
 bitsandbytes==0.48.2
 
