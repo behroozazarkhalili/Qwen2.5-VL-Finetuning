@@ -29,7 +29,7 @@ python-dotenv==1.2.1
 numpy==2.3.5
 pandas==2.3.3
 matplotlib==3.10.8
-pillow==12.0.0
+pillow==12.1.1
 
 # Jupyter and Notebook Support
 jupyter==1.1.1
