@@ -41,7 +41,7 @@ wandb==0.23.1
 tensorboard>=2.13.0
 
 # Utilities
-tqdm==4.67.1
+tqdm==4.67.3
 requests==2.32.5
 packaging==25.0
 
