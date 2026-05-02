@@ -42,7 +42,7 @@ tensorboard>=2.13.0
 
 # Utilities
 tqdm==4.67.3
-requests==2.33.0
+requests==2.33.1
 packaging==26.2
 
 # Optional: For better performance
