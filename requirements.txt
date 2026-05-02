@@ -3,7 +3,7 @@
 
 # Core ML and Deep Learning
 torch==2.11.0
-torchvision==0.24.1
+torchvision==0.26.0
 torchaudio==2.11.0
 
 # Hugging Face Ecosystem
