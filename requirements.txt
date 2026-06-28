@@ -27,7 +27,7 @@ python-dotenv==1.2.2
 
 # Data Science and Visualization
 numpy==2.4.6
-pandas==3.0.3
+pandas==3.0.4
 matplotlib==3.10.9
 pillow==12.2.0
 
