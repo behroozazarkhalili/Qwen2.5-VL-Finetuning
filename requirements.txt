@@ -43,7 +43,7 @@ tensorboard>=2.13.0
 # Utilities
 tqdm==4.70.0
 requests==2.34.2
-packaging==26.2
+packaging==26.3
 
 # Optional: For better performance
 ninja>=1.11.0
